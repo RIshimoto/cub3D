@@ -6,14 +6,14 @@
 /*   By: user42 <rishimot@student.42.tokyo>         +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/01/02 18:39:05 by user42            #+#    #+#             */
-/*   Updated: 2021/01/07 08:09:22 by user42           ###   ########.fr       */
+/*   Updated: 2021/01/10 07:09:15 by user42           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef CUB3D_H
 # define CUB3D_H
 
-# include "../minilibx-linux/mlx.h"
+# include "mlx.h"
 # include "key_macos.h"
 # include "get_next_line.h"
 # include "libft.h"

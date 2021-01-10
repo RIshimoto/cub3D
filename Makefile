@@ -30,8 +30,7 @@ OBJS = $(SRCS:.c=.o)
 
 $(NAME): $(OBJS)
 	$(MAKE) -C ./sources/libft
-	$(MAKE) -C ./minilibx-linux
-	$(CC) $(CFLAGS) -o $(NAME) -L./minilibx-linux -L./sources/libft $(OBJS) -lmlx -lft -I./include -lXext -lX11 -lm 
+	$(CC) $(CFLAGS) -o $(NAME) -L. -L./sources/libft $(OBJS) -lmlx -lft -I./include -lXext -lX11 -lm 
 
 all: $(NAME)
 
