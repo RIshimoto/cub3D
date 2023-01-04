@@ -41,6 +41,7 @@ C 225,30,0
 
 ## デモ
 https://user-images.githubusercontent.com/57135683/210556251-60177ceb-103e-47d2-b809-eb800c08c5cb.mp4
+今回、イルカ（友人作）がアイテム
 
 ## インストールと起動方法
 ```
