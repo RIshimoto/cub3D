@@ -13,3 +13,5 @@ $ cd cub3D
 $ make
 $ ./cub3D Correct/correct2.cub
 ```
+## テストツール
+https://github.com/RIshimoto/cub3D-error_file_test
