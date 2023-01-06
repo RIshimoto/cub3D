@@ -48,7 +48,7 @@ https://user-images.githubusercontent.com/57135683/210556251-60177ceb-103e-47d2-
 $ git clone https://github.com/RIshimoto/cub3D
 $ cd cub3D
 $ make
-$ ./cub3D Correct/（任意のcubファイル).cub
+$ ./cub3D Correct/(任意のcubファイル).cub
 ```
 
 ## 実行環境
