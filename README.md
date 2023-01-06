@@ -51,14 +51,14 @@ $ make
 $ ./cub3D Correct/(任意のcubファイル).cub
 ```
 
-## 実行環境
-Ubuntu 18.04.4 LTS
-
 ## 操作方法
 - 左右の矢印キーで、迷路を左右に見ることができる。
 - W、A、S、および D キーを使用して、迷路内で視点を移動できる。
 - ESCでウィンドウを閉じる。
 - 実行時に--saveオプションを付けると最初のレンダリングイメージを bmp フォーマットで保存できる。
+
+## 実行環境
+Ubuntu 18.04.4 LTS
 
 ## 自作テストツール
 https://github.com/RIshimoto/cub3D-error_file_test
