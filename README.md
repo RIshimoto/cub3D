@@ -43,6 +43,8 @@ C 225,30,0
 ## デモ
 https://user-images.githubusercontent.com/57135683/210556251-60177ceb-103e-47d2-b809-eb800c08c5cb.mp4
 
+https://user-images.githubusercontent.com/57135683/213193461-b271770c-89d7-4a11-8b2f-7caad59c9a45.mp4
+
 ※このデモではオブジェクトとして、かわいいイルカ（友人提供）の画像を用いています。
 
 ## インストールと起動方法
