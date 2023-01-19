@@ -65,4 +65,4 @@ $ ./cub3D Correct/(任意のcubファイル).cub
 Ubuntu 18.04.4 LTS
 
 ## 自作テストツール
-https://github.com/RIshimoto/cub3D-input_file_test
+https://github.com/RIshimoto/cub3D-input_file_tester
