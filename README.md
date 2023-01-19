@@ -40,14 +40,13 @@ C 225,30,0
   
 ※上記のフォーマットに従っていない場合は```Error\n```を出力。
 
-## デモ
-https://user-images.githubusercontent.com/57135683/210556251-60177ceb-103e-47d2-b809-eb800c08c5cb.mp4
+## 操作方法
+- 左右の矢印キーで、迷路を左右に見ることができる。
+- W、A、S、および D キーを使用して、迷路内で視点を移動できる。
+- ESCでウィンドウを閉じる。
+- 実行時に--saveオプションを付けると最初のレンダリングイメージを bmp フォーマットで保存できる。
 
-https://user-images.githubusercontent.com/57135683/213193461-b271770c-89d7-4a11-8b2f-7caad59c9a45.mp4
-
-※このデモではオブジェクトとして、かわいいイルカ（友人提供）の画像を用いています。
-
-## インストールと起動方法
+## 起動方法
 ```
 $ git clone https://github.com/RIshimoto/cub3D
 $ cd cub3D
@@ -55,11 +54,12 @@ $ make
 $ ./cub3D Correct/(任意のcubファイル).cub
 ```
 
-## 操作方法
-- 左右の矢印キーで、迷路を左右に見ることができる。
-- W、A、S、および D キーを使用して、迷路内で視点を移動できる。
-- ESCでウィンドウを閉じる。
-- 実行時に--saveオプションを付けると最初のレンダリングイメージを bmp フォーマットで保存できる。
+## デモ
+https://user-images.githubusercontent.com/57135683/210556251-60177ceb-103e-47d2-b809-eb800c08c5cb.mp4
+
+https://user-images.githubusercontent.com/57135683/213193461-b271770c-89d7-4a11-8b2f-7caad59c9a45.mp4
+
+※このデモではオブジェクトとして、かわいいイルカ（友人提供）の画像を用いています。
 
 ## 実行環境
 Ubuntu 18.04.4 LTS
